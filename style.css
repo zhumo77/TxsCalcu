@@ -87,7 +87,7 @@ button[disabled] {
 }
 
 .spade:after {
-  content: '&#9824 ';
+  content: '\2663 ';
 }
 
 .heart {
