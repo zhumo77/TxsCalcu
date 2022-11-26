@@ -79,7 +79,7 @@ button[disabled] {
   bottom: 0;
   text-align: center;
   line-height: 100px;
-  font-size: 3em;
+  font-size: 1em;
 }
 
 .spade {
@@ -87,7 +87,7 @@ button[disabled] {
 }
 
 .spade:after {
-  content: '&spades ';
+  content: '黑桃 ';
 }
 
 .heart {
@@ -95,7 +95,7 @@ button[disabled] {
 }
 
 .heart:after {
-  content: 'â™¥';
+  content: '愛心';
 }
 
 .club {
@@ -103,7 +103,7 @@ button[disabled] {
 }
 
 .club:after {
-  content: 'â™£';
+  content: '梅花';
 }
 
 .diamond {
@@ -111,7 +111,7 @@ button[disabled] {
 }
 
 .diamond:after {
-  content: 'â™¦';
+  content: '方塊';
 }
 
 .container .selected {
