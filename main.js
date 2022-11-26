@@ -1,3 +1,4 @@
+chrome_options.add_argument('--log-level=1')
 let LANG = {
   reset: 'Already choose public cards, click reset button to reset',
   hand: 'Please choose 2 hand cards!',
