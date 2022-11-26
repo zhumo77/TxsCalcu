@@ -83,7 +83,7 @@ button[disabled] {
 }
 
 .spade {
-  color: black;
+  color: blue;
 }
 
 .spade:after {
@@ -99,7 +99,7 @@ button[disabled] {
 }
 
 .club {
-  color: black;
+  color: blue;
 }
 
 .club:after {
