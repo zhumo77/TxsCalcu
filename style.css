@@ -52,7 +52,7 @@ button[disabled] {
 
 .container {
   position: relative;
-  background-color:#A6FFA6
+  
 }
 
 .poker {
@@ -67,6 +67,7 @@ button[disabled] {
   display: inline-block;
   font-size: 1.5em;
   margin-top: 7px;
+  background-color:#A6FFA6
 }
 
 .container .poker:hover {
