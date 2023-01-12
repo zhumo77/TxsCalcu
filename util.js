@@ -10,7 +10,7 @@ function id (s) {
 
 function randomPick (n, m) {
   if (Math.abs(parseInt(n)) !== n || Math.abs(parseInt(m)) !== m || n < m || n === 0 || m === 0) {
-    console.log('randomPick的参数为两个正整数，且前者不能小于后者！')
+    console.log('randomPick must be 2 interger, and the front number must bigger than the last！')
     return
   }
   var result = []
