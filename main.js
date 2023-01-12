@@ -169,7 +169,7 @@ function calculate () {
   }
 }
 
-// 输入5张公共牌和所有玩家手牌，输出胜利的玩家(们)的index数组
+// enter 5 community cards and all players' cards，output the winner's index
 function whoWin (publicCards, handCards) {
   let combs = combination([0, 1, 2, 3, 4, 5, 6], 5)
   let maxes = Array(handCards.length).fill(0)
