@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  background-color:#4B0091
+  background-color:#D2E9FF
 }
 
 noscript {
@@ -41,7 +41,7 @@ button[disabled] {
   margin: 10px;
   text-align: center;
 }
-.quote {
+.explanation {
   border-left: 7px solid #b4d7e4;
   padding-left: 10px;
 }
