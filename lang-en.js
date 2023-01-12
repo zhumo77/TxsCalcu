@@ -1,0 +1,10 @@
+LANG = {
+  reset: 'COMMUNITY CARDS HAVE BEEN CHOSEN, PLEASE RESET.',
+  hand: 'PLEASE CHOOSE 2 CARDS',
+  pub: 'PLEASE CHOOSE 0-4 COMMUNITY CARDS',
+  more: 'PLEASE SET 2 OR MORE PLAYERS',
+  player: 'PLAYER',
+  hc: 'HAND',
+  pc: 'COMMUNITY CARD',
+  de: 'S'
+}
